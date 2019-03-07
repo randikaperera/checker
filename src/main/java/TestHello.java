@@ -5,5 +5,6 @@ public class TestHello {
         System.out.println("hi this line is changed by randika perera");
 		System.out.println("welcome1234");
 
+		commit1
     }
 }
